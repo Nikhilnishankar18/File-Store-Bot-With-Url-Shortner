@@ -41,11 +41,11 @@ from handlers.save_media import (
 MediaList = {}
 
 Bot = Client(
-    name=Config.BOT_USERNAME,
+    name=Config.videoreceiver_bot,
     in_memory=True,
-    bot_token=Config.BOT_TOKEN,
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH
+    bot_token=Config.7606251651:AAHJ9oTU6JK3eY8btWGj47RNFrG5pKl_V78,
+    api_id=Config.23454578,
+    api_hash=Config.079f252d4247dd595fd4b86d9ca9dc27
 )
 
 
